@@ -1,0 +1,6 @@
+Fri Jul 14 14:39:59 2023
+WARNING: mju_openResource: unknown file '/Scene/wonik_allegro/scene_right.xml'
+
+Fri Jul 14 15:11:23 2023
+WARNING: mju_openResource: unknown file 'Documents/repositories/Human_Robot_Hand_Grasping/Scene/wonik_allegro/scene_right.xml'
+
